@@ -4,11 +4,11 @@
 
 ## 分类:
 
-### 1.[关于PCL2本体]()
+### 1.[关于PCL2本体](https://github.com/wrightnicole121212/PCL2/tree/master/PCL2)
 
-### 2.[关于资源网站(例如Curseforge)]()
+### 2.[关于资源网站(例如Curseforge)和其他网站](https://github.com/wrightnicole121212/PCL2/tree/master/Websites)
 
-### 3.[其他]()
+### 3.[其他](https://github.com/wrightnicole121212/PCL2/tree/master/Other)
 
 ## 致谢
 
