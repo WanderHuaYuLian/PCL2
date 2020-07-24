@@ -8,7 +8,9 @@
 
 ### 2.[关于资源网站(例如Curseforge)和其他网站](https://github.com/wrightnicole121212/PCL2/tree/master/Websites)
 
-### 3.[其他](https://github.com/wrightnicole121212/PCL2/tree/master/Other)
+### 3.[下载](https://github.com/wrightnicole121212/PCL2/tree/master/Download)
+
+### 4.[其他](https://github.com/wrightnicole121212/PCL2/tree/master/Other)
 
 ## 致谢
 
