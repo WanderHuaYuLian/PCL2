@@ -10,10 +10,8 @@
 
 ### 3.[下载](https://github.com/wrightnicole121212/PCL2/tree/master/Download)
 
-### 4.[其他](https://github.com/wrightnicole121212/PCL2/tree/master/Other)
-
 ## 致谢
 
-### 感谢Kirito666233撰写部分帮助文档
+### 感谢Kirito666233撰写大部分帮助文档
 
 注：有啥问题请在群里提问，请不要无缘无故艾特龙猫，问问题也请语气放轻一点，群友帮你解决问题只是自愿。若有更多问题请在群内提问！
