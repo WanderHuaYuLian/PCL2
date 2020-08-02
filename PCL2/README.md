@@ -8,6 +8,6 @@
 
 4.[我在哪能下到PCL2的**内测版**](https://github.com/wrightnicole121212/PCL2/blob/master/PCL2/Files/4.md)
 
-5.[PCL没有**外置登录**吗？其实有(如何使用**外置登录**)](https://github.com/wrightnicole121212/PCL2/blob/master/PCL2/Files/5.md)
+5.[PCL没有**外置登录**吗？如何使用**外置登录**？](https://github.com/wrightnicole121212/PCL2/blob/master/PCL2/Files/5.md)
 
 6.[我的**主题全没了**咋办（由于您**重装系统/换了硬件**导致）](https://github.com/wrightnicole121212/PCL2/blob/master/PCL2/Files/6.md)
